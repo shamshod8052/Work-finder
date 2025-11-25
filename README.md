@@ -6,15 +6,6 @@ Telegram xabarlarini avtomatik tarzda **filtrlash**, **nazorat qilish** va **jo'
 
 ---
 
-## 🖼️ Demo (Skrinshotlar)
-
-```
-![Filter working example](images/example1.png)
-![Console log](images/example2.png)
-```
-
----
-
 ## 🚀 Texnologiyalar
 
 * **Python 3.11**
